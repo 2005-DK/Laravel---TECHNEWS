@@ -337,3 +337,13 @@ For issues, questions, or suggestions, please open a GitHub issue.
 ---
 
 **Built with ❤️ using Laravel 10**
+
+## Hire Me / Upwork
+
+Interested in hiring a Laravel developer? This project is a portfolio-ready example you can show to clients.
+
+- **Portfolio details:** see `PORTFOLIO.md` for a ready description, screenshots checklist and proposal templates.
+- **Upwork profile link:** replace with your Upwork URL: https://www.upwork.com/freelancers/~YOUR-UPWORK-ID
+- **Quick pitch:** "I built TECHNEWS — a modern Laravel 10 news platform demonstrating full-stack skills (backend, API, Tailwind frontend, testing)."
+
+Add a link to your Upwork profile and screenshots to the `assets/screenshots` folder to make the portfolio entry stronger.

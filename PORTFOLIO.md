@@ -238,6 +238,68 @@ The project includes article management, user authentication,
 comment moderation, search functionality, and an admin dashboard 
 with complete CRUD operations.
 
+---
+
+## Proposal Templates (Copy & Paste)
+
+Use these templates when responding to job posts on Upwork. Customize the first paragraph to reference the client's project name.
+
+1) Short (Quick reply for invites)
+
+```
+Hi — I can start immediately. I built TECHNEWS, a Laravel 10 news platform demonstrating article CRUD, role-based access, API endpoints, and Tailwind-powered UI. I can deliver this feature quickly and maintain high code quality with tests and automated CI. Can we discuss requirements and timeline?
+```
+
+2) Medium (Standard proposal)
+
+```
+Hello,
+
+I'm an experienced Laravel developer and I built TECHNEWS — a full-featured news platform using Laravel 10, Sanctum, Tailwind CSS and Vite. My work includes secure authentication, admin dashboards, article management, search, and API endpoints. I follow best practices (Pint formatting, PHPUnit tests, CI) and can provide a working demo and deployment instructions.
+
+I propose: 1) quick scoping call, 2) delivery of a working feature branch within X days, 3) tests and documentation. Budget and timeline negotiable.
+
+Thanks for considering — I can share the repository and a live demo on request.
+```
+
+3) Long (Detailed technical proposal)
+
+```
+Dear [Client],
+
+I will implement the requested feature using Laravel 10, following the project's existing architecture in TECHNEWS. My approach:
+
+- Architecture: use Eloquent models and resource controllers to keep controllers thin.
+- Security: ensure route/middleware protection, validate requests with Form Requests, and sanitize inputs.
+- Testing: provide feature tests for critical flows and unit tests for business logic.
+- Deployment: provide a deployment script and environment guide; optionally use CI/CD for automated deploys.
+
+Deliverables:
+- Feature branch with code
+- Tests covering the feature
+- Documentation and deployment steps
+- Quick demo video or screenshots on completion
+
+I estimate this will take [X] days. I'll provide regular updates and can start as soon as we agree on scope.
+
+Best regards,
+[Your name]
+```
+
+---
+
+## Screenshots Checklist
+
+Add these images to `assets/screenshots/` and reference them in your Upwork portfolio entry:
+
+- `homepage.png` — site homepage with featured articles
+- `article-page.png` — article detail view
+- `dashboard.png` — admin dashboard overview
+- `create-article.png` — article creation form
+- `mobile-view.png` — responsive mobile screenshot
+
+Include captions and short descriptions for each screenshot in your Upwork portfolio.
+
 All code is production-ready, well-documented, and follows 
 Laravel and PHP best practices.
 ```
