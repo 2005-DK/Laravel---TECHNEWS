@@ -347,3 +347,17 @@ Interested in hiring a Laravel developer? This project is a portfolio-ready exam
 - **Quick pitch:** "I built TECHNEWS — a modern Laravel 10 news platform demonstrating full-stack skills (backend, API, Tailwind frontend, testing)."
 
 Add a link to your Upwork profile and screenshots to the `assets/screenshots` folder to make the portfolio entry stronger.
+
+### Add your photo and demo
+
+Add a professional headshot and a short demo GIF or video to increase trust and conversion. See `HIRE_ME.md` for step-by-step guidance.
+
+Example (replace file after adding your image to `assets/screenshots`):
+
+```markdown
+<p align="left">
+  <img src="assets/screenshots/headshot.png" width="120" alt="Your Name - Developer">
+</p>
+
+[Watch short demo](https://youtu.be/your-demo-link) — or use `assets/screenshots/demo.gif`
+```
