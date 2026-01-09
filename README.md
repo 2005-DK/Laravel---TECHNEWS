@@ -14,6 +14,8 @@ A full-featured tech news platform built with <strong>Laravel 10</strong> and <s
 <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
 </p>
 
+[![CI](https://github.com/2005-DK/Laravel---TECHNEWS/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/2005-DK/Laravel---TECHNEWS/actions/workflows/ci.yml)
+
 ---
 
 ## Features
