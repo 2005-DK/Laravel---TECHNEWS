@@ -18,6 +18,18 @@ This creates `portfolio_package.zip` in the repo root containing:
 - Upload images: open `assets/mock_screenshots/*.html` in browser, capture 1280×720 screenshots, and upload the PNGs.
 - Upload `portfolio_package.zip` as an attachment if Upwork permits.
 
+Automated screenshot generation
+
+If you prefer automatic screenshots, install Node dependencies and run the included script:
+
+```bash
+# from the project root
+npm install
+npm run screenshot:mock
+```
+
+Screenshots will be written to `assets/screenshots/*.png` (names match the mock HTML files).
+
 3. Add links to the GitHub repo and a live demo (if hosted).
 
 Tips:
