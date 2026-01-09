@@ -356,8 +356,8 @@ Example (replace file after adding your image to `assets/screenshots`):
 
 ```markdown
 <p align="left">
-  <img src="assets/screenshots/headshot.png" width="120" alt="Your Name - Developer">
+  <img src="assets/screenshots/headshot.svg" width="120" alt="Your Name - Developer">
 </p>
 
-[Watch short demo](https://youtu.be/your-demo-link) — or use `assets/screenshots/demo.gif`
+[Watch short demo](https://youtu.be/your-demo-link) — or use `assets/screenshots/demo.svg`
 ```
